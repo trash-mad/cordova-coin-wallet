@@ -9,7 +9,7 @@
 ```
 npm install
 npm run build
-npm run build cordova
+npm run build:cordova
 ```
 
 ## Development Guide
