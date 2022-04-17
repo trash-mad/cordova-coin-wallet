@@ -1,6 +1,6 @@
 # cordova-coin-wallet
 
-> A [react-declarative](https://github.com/react-declarative/react-declarative) lib example based on mobile app based on [Apache Cordova](https://cordova.apache.org/)
+> A [react-declarative](https://github.com/react-declarative/react-declarative) lib example based on mobile app on [Apache Cordova](https://cordova.apache.org/)
 
 ![screenshot](./docs/screenshot.png)
 
